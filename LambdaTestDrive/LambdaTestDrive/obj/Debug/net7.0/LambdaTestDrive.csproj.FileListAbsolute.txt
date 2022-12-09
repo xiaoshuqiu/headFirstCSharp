@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\Kingston uni\LambdaTestDrive\LambdaTestDrive\bin\Debug\net7.0\LambdaTestDrive.exe
+\\Mac\Home\Desktop\Kingston uni\LambdaTestDrive\LambdaTestDrive\bin\Debug\net7.0\LambdaTestDrive.deps.json
+\\Mac\Home\Desktop\Kingston uni\LambdaTestDrive\LambdaTestDrive\bin\Debug\net7.0\LambdaTestDrive.runtimeconfig.json
+\\Mac\Home\Desktop\Kingston uni\LambdaTestDrive\LambdaTestDrive\bin\Debug\net7.0\LambdaTestDrive.dll
+\\Mac\Home\Desktop\Kingston uni\LambdaTestDrive\LambdaTestDrive\bin\Debug\net7.0\LambdaTestDrive.pdb
+\\Mac\Home\Desktop\Kingston uni\LambdaTestDrive\LambdaTestDrive\obj\Debug\net7.0\LambdaTestDrive.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Kingston uni\LambdaTestDrive\LambdaTestDrive\obj\Debug\net7.0\LambdaTestDrive.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Kingston uni\LambdaTestDrive\LambdaTestDrive\obj\Debug\net7.0\LambdaTestDrive.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Kingston uni\LambdaTestDrive\LambdaTestDrive\obj\Debug\net7.0\LambdaTestDrive.AssemblyInfo.cs
+\\Mac\Home\Desktop\Kingston uni\LambdaTestDrive\LambdaTestDrive\obj\Debug\net7.0\LambdaTestDrive.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Kingston uni\LambdaTestDrive\LambdaTestDrive\obj\Debug\net7.0\LambdaTestDrive.dll
+\\Mac\Home\Desktop\Kingston uni\LambdaTestDrive\LambdaTestDrive\obj\Debug\net7.0\refint\LambdaTestDrive.dll
+\\Mac\Home\Desktop\Kingston uni\LambdaTestDrive\LambdaTestDrive\obj\Debug\net7.0\LambdaTestDrive.pdb
+\\Mac\Home\Desktop\Kingston uni\LambdaTestDrive\LambdaTestDrive\obj\Debug\net7.0\LambdaTestDrive.genruntimeconfig.cache
+\\Mac\Home\Desktop\Kingston uni\LambdaTestDrive\LambdaTestDrive\obj\Debug\net7.0\ref\LambdaTestDrive.dll

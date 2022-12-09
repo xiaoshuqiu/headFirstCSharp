@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\Kingston uni\ClownWithLambdas\ClownWithLambdas\bin\Debug\net7.0\ClownWithLambdas.exe
+\\Mac\Home\Desktop\Kingston uni\ClownWithLambdas\ClownWithLambdas\bin\Debug\net7.0\ClownWithLambdas.deps.json
+\\Mac\Home\Desktop\Kingston uni\ClownWithLambdas\ClownWithLambdas\bin\Debug\net7.0\ClownWithLambdas.runtimeconfig.json
+\\Mac\Home\Desktop\Kingston uni\ClownWithLambdas\ClownWithLambdas\bin\Debug\net7.0\ClownWithLambdas.dll
+\\Mac\Home\Desktop\Kingston uni\ClownWithLambdas\ClownWithLambdas\bin\Debug\net7.0\ClownWithLambdas.pdb
+\\Mac\Home\Desktop\Kingston uni\ClownWithLambdas\ClownWithLambdas\obj\Debug\net7.0\ClownWithLambdas.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Kingston uni\ClownWithLambdas\ClownWithLambdas\obj\Debug\net7.0\ClownWithLambdas.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Kingston uni\ClownWithLambdas\ClownWithLambdas\obj\Debug\net7.0\ClownWithLambdas.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Kingston uni\ClownWithLambdas\ClownWithLambdas\obj\Debug\net7.0\ClownWithLambdas.AssemblyInfo.cs
+\\Mac\Home\Desktop\Kingston uni\ClownWithLambdas\ClownWithLambdas\obj\Debug\net7.0\ClownWithLambdas.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Kingston uni\ClownWithLambdas\ClownWithLambdas\obj\Debug\net7.0\ClownWithLambdas.dll
+\\Mac\Home\Desktop\Kingston uni\ClownWithLambdas\ClownWithLambdas\obj\Debug\net7.0\refint\ClownWithLambdas.dll
+\\Mac\Home\Desktop\Kingston uni\ClownWithLambdas\ClownWithLambdas\obj\Debug\net7.0\ClownWithLambdas.pdb
+\\Mac\Home\Desktop\Kingston uni\ClownWithLambdas\ClownWithLambdas\obj\Debug\net7.0\ClownWithLambdas.genruntimeconfig.cache
+\\Mac\Home\Desktop\Kingston uni\ClownWithLambdas\ClownWithLambdas\obj\Debug\net7.0\ref\ClownWithLambdas.dll

@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\Kingston uni\CreateSequenceByHand\CreateSequenceByHand\bin\Debug\net7.0\CreateSequenceByHand.exe
+\\Mac\Home\Desktop\Kingston uni\CreateSequenceByHand\CreateSequenceByHand\bin\Debug\net7.0\CreateSequenceByHand.deps.json
+\\Mac\Home\Desktop\Kingston uni\CreateSequenceByHand\CreateSequenceByHand\bin\Debug\net7.0\CreateSequenceByHand.runtimeconfig.json
+\\Mac\Home\Desktop\Kingston uni\CreateSequenceByHand\CreateSequenceByHand\bin\Debug\net7.0\CreateSequenceByHand.dll
+\\Mac\Home\Desktop\Kingston uni\CreateSequenceByHand\CreateSequenceByHand\bin\Debug\net7.0\CreateSequenceByHand.pdb
+\\Mac\Home\Desktop\Kingston uni\CreateSequenceByHand\CreateSequenceByHand\obj\Debug\net7.0\CreateSequenceByHand.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Kingston uni\CreateSequenceByHand\CreateSequenceByHand\obj\Debug\net7.0\CreateSequenceByHand.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Kingston uni\CreateSequenceByHand\CreateSequenceByHand\obj\Debug\net7.0\CreateSequenceByHand.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Kingston uni\CreateSequenceByHand\CreateSequenceByHand\obj\Debug\net7.0\CreateSequenceByHand.AssemblyInfo.cs
+\\Mac\Home\Desktop\Kingston uni\CreateSequenceByHand\CreateSequenceByHand\obj\Debug\net7.0\CreateSequenceByHand.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Kingston uni\CreateSequenceByHand\CreateSequenceByHand\obj\Debug\net7.0\CreateSequenceByHand.dll
+\\Mac\Home\Desktop\Kingston uni\CreateSequenceByHand\CreateSequenceByHand\obj\Debug\net7.0\refint\CreateSequenceByHand.dll
+\\Mac\Home\Desktop\Kingston uni\CreateSequenceByHand\CreateSequenceByHand\obj\Debug\net7.0\CreateSequenceByHand.pdb
+\\Mac\Home\Desktop\Kingston uni\CreateSequenceByHand\CreateSequenceByHand\obj\Debug\net7.0\CreateSequenceByHand.genruntimeconfig.cache
+\\Mac\Home\Desktop\Kingston uni\CreateSequenceByHand\CreateSequenceByHand\obj\Debug\net7.0\ref\CreateSequenceByHand.dll

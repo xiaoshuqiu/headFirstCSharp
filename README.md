@@ -1,3 +1,0 @@
-# headFirstCSharp
-# headFirstCSharp
-# headFirstCSharp

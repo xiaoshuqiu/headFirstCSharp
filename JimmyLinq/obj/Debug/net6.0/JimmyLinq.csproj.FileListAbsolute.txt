@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\Kingston uni\JimmyLinq\bin\Debug\net6.0\JimmyLinq.exe
+\\Mac\Home\Desktop\Kingston uni\JimmyLinq\bin\Debug\net6.0\JimmyLinq.deps.json
+\\Mac\Home\Desktop\Kingston uni\JimmyLinq\bin\Debug\net6.0\JimmyLinq.runtimeconfig.json
+\\Mac\Home\Desktop\Kingston uni\JimmyLinq\bin\Debug\net6.0\JimmyLinq.dll
+\\Mac\Home\Desktop\Kingston uni\JimmyLinq\bin\Debug\net6.0\JimmyLinq.pdb
+\\Mac\Home\Desktop\Kingston uni\JimmyLinq\obj\Debug\net6.0\JimmyLinq.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Kingston uni\JimmyLinq\obj\Debug\net6.0\JimmyLinq.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Kingston uni\JimmyLinq\obj\Debug\net6.0\JimmyLinq.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Kingston uni\JimmyLinq\obj\Debug\net6.0\JimmyLinq.AssemblyInfo.cs
+\\Mac\Home\Desktop\Kingston uni\JimmyLinq\obj\Debug\net6.0\JimmyLinq.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Kingston uni\JimmyLinq\obj\Debug\net6.0\JimmyLinq.dll
+\\Mac\Home\Desktop\Kingston uni\JimmyLinq\obj\Debug\net6.0\refint\JimmyLinq.dll
+\\Mac\Home\Desktop\Kingston uni\JimmyLinq\obj\Debug\net6.0\JimmyLinq.pdb
+\\Mac\Home\Desktop\Kingston uni\JimmyLinq\obj\Debug\net6.0\JimmyLinq.genruntimeconfig.cache
+\\Mac\Home\Desktop\Kingston uni\JimmyLinq\obj\Debug\net6.0\ref\JimmyLinq.dll

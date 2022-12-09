@@ -1,0 +1,15 @@
+C:\Users\Xiaoshu\Dropbox\Kingston Uni\C sharp\JimmyLinq\bin\Debug\net7.0\JimmyLinq.exe
+C:\Users\Xiaoshu\Dropbox\Kingston Uni\C sharp\JimmyLinq\bin\Debug\net7.0\JimmyLinq.deps.json
+C:\Users\Xiaoshu\Dropbox\Kingston Uni\C sharp\JimmyLinq\bin\Debug\net7.0\JimmyLinq.runtimeconfig.json
+C:\Users\Xiaoshu\Dropbox\Kingston Uni\C sharp\JimmyLinq\bin\Debug\net7.0\JimmyLinq.dll
+C:\Users\Xiaoshu\Dropbox\Kingston Uni\C sharp\JimmyLinq\bin\Debug\net7.0\JimmyLinq.pdb
+C:\Users\Xiaoshu\Dropbox\Kingston Uni\C sharp\JimmyLinq\obj\Debug\net7.0\JimmyLinq.csproj.AssemblyReference.cache
+C:\Users\Xiaoshu\Dropbox\Kingston Uni\C sharp\JimmyLinq\obj\Debug\net7.0\JimmyLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xiaoshu\Dropbox\Kingston Uni\C sharp\JimmyLinq\obj\Debug\net7.0\JimmyLinq.AssemblyInfoInputs.cache
+C:\Users\Xiaoshu\Dropbox\Kingston Uni\C sharp\JimmyLinq\obj\Debug\net7.0\JimmyLinq.AssemblyInfo.cs
+C:\Users\Xiaoshu\Dropbox\Kingston Uni\C sharp\JimmyLinq\obj\Debug\net7.0\JimmyLinq.csproj.CoreCompileInputs.cache
+C:\Users\Xiaoshu\Dropbox\Kingston Uni\C sharp\JimmyLinq\obj\Debug\net7.0\JimmyLinq.dll
+C:\Users\Xiaoshu\Dropbox\Kingston Uni\C sharp\JimmyLinq\obj\Debug\net7.0\refint\JimmyLinq.dll
+C:\Users\Xiaoshu\Dropbox\Kingston Uni\C sharp\JimmyLinq\obj\Debug\net7.0\JimmyLinq.pdb
+C:\Users\Xiaoshu\Dropbox\Kingston Uni\C sharp\JimmyLinq\obj\Debug\net7.0\JimmyLinq.genruntimeconfig.cache
+C:\Users\Xiaoshu\Dropbox\Kingston Uni\C sharp\JimmyLinq\obj\Debug\net7.0\ref\JimmyLinq.dll
